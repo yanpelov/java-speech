@@ -1,5 +1,20 @@
 # Changelog
 
+### [1.22.2](https://www.github.com/googleapis/java-speech/compare/v1.22.1...v1.22.2) (2019-12-23)
+
+
+### Bug Fixes
+
+* update timeout settings ([#56](https://www.github.com/googleapis/java-speech/issues/56)) ([1403d85](https://www.github.com/googleapis/java-speech/commit/1403d857201b14630694937f2890f10c9557a360))
+* **regen:** update timeout configs, javadoc from protoc update ([#62](https://www.github.com/googleapis/java-speech/issues/62)) ([505ecb7](https://www.github.com/googleapis/java-speech/commit/505ecb7c4e715d2c2477ef192094a6b0ef437e1a))
+
+
+### Dependencies
+
+* update dependency com.google.protobuf:protobuf-java to v3.11.1 ([86baa06](https://www.github.com/googleapis/java-speech/commit/86baa06fd63e06231eaae3c13be978340804fa31))
+* update dependency io.grpc:grpc-bom to v1.26.0 ([#64](https://www.github.com/googleapis/java-speech/issues/64)) ([0deab5b](https://www.github.com/googleapis/java-speech/commit/0deab5b971baf0f7799d4a3d7d49d2b569ccae21))
+* update gax.version to v1.52.0 ([#52](https://www.github.com/googleapis/java-speech/issues/52)) ([508d25d](https://www.github.com/googleapis/java-speech/commit/508d25d512078058422aa33a37e89186cc99448c))
+
 ### [1.22.1](https://www.github.com/googleapis/java-speech/compare/v1.22.0...v1.22.1) (2019-11-21)
 
 
